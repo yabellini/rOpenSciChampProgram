@@ -256,6 +256,16 @@ Haydee Svab
 
 * Hay dos paquetes donde la revisión será en español!
 
+##  ¿Cómo aplicar?
+
+Fecha límite [lunes 4 de septiembre de 2023]{.bordo}. Los formularios deben completarse en [inglés]{.bordo}.
+
+* Formulario para aplicar como campeón/a: <https://airtable.com/shrAsYlSXU0coJ5Ld>. 
+
+* Formulario para aplicar como mentor/a: <https://airtable.com/shrlrLdQbb4wphosK>
+
+En la web hay más detalles sobre ser [campeona](https://ropensci.org/champions/programdetails_2023/) y  [mentora](https://ropensci.org/champions/programdetailsmentors_2023/)
+    
 ## Fechas importantes
 
 |Fecha|Evento|
