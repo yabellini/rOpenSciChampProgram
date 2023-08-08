@@ -265,3 +265,7 @@ Haydee Svab
 |Septiembre 4, 2023|Se cierra el llamado a postulaciones|
 
 # ¡Tiempo de comentarios y preguntas!
+
+<https://ropensci.org/champions/>
+
+Agendá una reunión conmigo: <https://calendly.com/yabellini-ropensci/15min>
