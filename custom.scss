@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$theme-darkblue: #425280;
+$theme-bordo: #882e0f;
+$theme-gray: #f7faff;
+$theme-white: #FFFFFF;
+
+$body-bg: $theme-gray;
+$body-color: $theme-darkblue;
+$link-color: $theme-bordo;
+
+$font-family-sans-serif: 'ProximaNova', sans-serif;
+$presentation-heading-font: 'ProximaNova', sans-serif;
+
+/*-- scss:rules --*/
+
+.bordo {
+  color: $theme-bordo;
+  font-weight: bold;
+}
+
+.azul {
+  color: $theme-darkblue;
+  font-weight: bold;
+}
+

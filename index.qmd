@@ -1,0 +1,267 @@
+---
+title: "Campeonas del software libre para ciencia"
+subtitle: "R-Ladies Buenos Aires y Santa Rosa <br> Yani Bellini Saibene <br> <https://hachyderm.io/@rOpenSci> - <https://fosstodon.org/@yabellini>"
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+    logo: images/lettering_black.svg
+    footer: Esta charla está en  
+---
+
+## rOpenSci
+
+fomenta una cultura que valora la investigación [abierta]{.azul} y [reproducible]{.azul} utilizando [datos compartidos]{.azul} y [software reutilizable]{.azul}
+
+---
+
+## Hacemos esto {.smaller}
+
+::: {.incremental}
+
+* Creando una [infraestructura técnica]{.azul} de herramientas de software R cuidadosamente revisadas que reduzcan las barreras para trabajar con datos científicos.
+
+* Haciendo más [accesibles y encontrables]{.azul} los datos, las herramientas y las mejores prácticas.
+
+* Creando una [infraestructura social]{.azul} a través de una [comunidad]{.azul} amigable y diversa.
+
+* [Promoviendo]{.azul} una cultura de intercambio de datos y software reutilizable.
+
+* Desarrollando la [capacidad]{.azul} de las usuarias y desarrolladoras de software y fomentando un sentimiento de orgullo por su trabajo.
+
+::: 
+
+---
+
+## Evolución {.smaller} 
+
+:::: {.columns} 
+
+::: {.column width="30%"}
+
+![](images/flechas_desde_punto_hacia_afuera.png) 
+Al principio, nuestro equipo **creaba software para investigación**.
+:::
+
+
+::: {.column width="30%"}
+
+:::
+
+
+::: {.column width="30%"}
+
+:::
+
+::::
+
+---
+
+## Evolución {.smaller} 
+
+
+:::: {.columns} 
+
+::: {.column width="30%"}
+
+![](images/flechas_desde_punto_hacia_afuera.png) 
+Al principio, nuestro equipo **creaba software para investigación**.
+:::
+
+
+::: {.column width="30%"}
+![](images/flechas_entre_puntos.png) 
+
+Entonces empezamos a aceptar contribuciones. **Pero 1:1 requería mucho tiempo y esfuerzo.**
+:::
+
+
+::: {.column width="30%"}
+
+:::
+
+::::
+
+---
+
+## Evolución {.smaller} 
+
+:::: {.columns} 
+
+::: {.column width="30%"}
+
+![](images/flechas_desde_punto_hacia_afuera.png) 
+Al principio, nuestro equipo **creaba software para investigación**.
+:::
+
+
+::: {.column width="30%"}
+![](images/flechas_entre_puntos.png) 
+
+Entonces empezamos a aceptar contribuciones. **Pero 1:1 requería mucho tiempo y esfuerzo.**
+:::
+
+
+::: {.column width="30%"}
+![](images/cover.png) 
+
+Mejores prácticas de desarrollo de software documentadas en un libro vivo
+:::
+
+::::
+
+
+---
+
+## Evolución {.smaller} 
+
+
+:::: {.columns} 
+
+::: {.column width="30%"}
+
+![](images/packages.png) 
+
+Creación de un proceso de revisión de software (estadístico) por pares estandarizado.
+
+:::
+
+
+::: {.column width="30%"}
+
+
+
+:::
+
+
+::: {.column width="30%"}
+
+:::
+
+::::
+
+---
+
+## Evolución {.smaller} 
+
+
+:::: {.columns} 
+
+::: {.column width="30%"}
+
+![](images/packages.png) 
+Creación de un proceso de revisión de software (estadístico) por pares estandarizado.
+:::
+
+
+::: {.column width="30%"}
+
+
+![](images/bot.png) 
+Automatización + revisión humana
+
+:::
+
+
+::: {.column width="30%"}
+
+
+
+:::
+
+::::
+
+
+
+---
+
+## Evolución {.smaller} 
+
+
+:::: {.columns} 
+
+::: {.column width="30%"}
+
+![](images/packages.png) 
+Creación de un proceso de revisión de software (estadístico) por pares estandarizado.
+:::
+
+
+::: {.column width="30%"}
+
+
+![](images/bot.png) 
+
+Automatización + revisión humana
+
+:::
+
+
+::: {.column width="30%"}
+
+![](images/translate.png) 
+Proyecto de publicación multilingüe (libros, web, subtítulos, paquetes)
+
+:::
+
+::::
+
+
+# Programa de Campeon(a|e)s de rOpenSci
+Líderes de la comunidad en proyectos científicos de código abierto
+
+## Piloto 2022-2023
+[Identificar]{.azul}, [reconocer]{.azul} y [premiar]{.azul} a las personas líderes en una comunidad.
+![](images/countriesApplications_es.png) {.smaller}
+
+::: footer
+
+:::  
+
+## Algunos números
+
+* 74 champeon(a|e)s, 28 mentor(a|e)s, 31 países. 
+
+* 38 (51%) desarrollar un nuevo paquete.
+
+* 19 (25%) ser parte del proceso de revisión como revisor/a. 
+
+* 18 (24%) enviar un paquete a la revisión por pares.
+
+* Tres mentor(a|e)s de latinoamérica.
+
+* Cinco campeon(a|e)s de latinoamérica.
+
+* Tres instructo(a|e)s de latinoamérica. 
+
+## Programa
+
+12 meses + capacitación + mentoría 1:1 + proyecto + estipendio (1000 u$s)
+
+![](images/training.png) 
+
+## Proyectos {.smaller} 
+
+Latinoamérica: **Proyectos de desarrollar nuevos paquetes y enviar paquetes a la revisión por pares** *
+
+![](images/eph.png)
+Carolina Pradier
+![](images/agromet.png)
+Paola Corrales
+![](images/rgeeextra.png)
+César Aybar Camacho
+![](images/karel.png)
+Marcos Prunello
+![](images/odbr.png)
+Haydee Svab
+
+* Hay dos paquetes donde la revisión será en español!
+
+## Fechas importantes
+
+|Fecha|Evento|
+|----|-----|
+|Julio 14, 2023|Se abre el llamado  🎉|
+|Agosto 17 y 23, 2023|[Opcional] Coworking Champions Application Clinics en diferentes zonas horarias ([Agosto 17](/events/coworking-2023-08-17/) y [Agosto 23](/events/coworking-2023-08-23/)): [recibe ayuda con tu aplicación para el Programa]{.azul} |
+|Septiembre 4, 2023|Se cierra el llamado a postulaciones|
+
+# ¡Tiempo de comentarios y preguntas!
