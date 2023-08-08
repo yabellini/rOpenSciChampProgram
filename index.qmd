@@ -279,3 +279,12 @@ En la web hay más detalles sobre ser [campeona](https://ropensci.org/champions/
 <https://ropensci.org/champions/>
 
 Agendá una reunión conmigo: <https://calendly.com/yabellini-ropensci/15min>
+
+---
+
+Esta charla fue generada utilizando estos recursos:
+
+* Quarto
+
+* Ram, Karthik. (2023, April 12). How to enable and sustain thriving Open Source Ecosystems (OSE). Zenodo. https://doi.org/10.5281/zenodo.7822917
+
